@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: July 25-26, 2018
+- Facilitator: @brianamarie
 
 ## Talk to Us!!
 
@@ -9,7 +9,7 @@ If you have a question, or need assistance during class, **please create an issu
 
 ## Give Us Feedback
 
-Please take a moment to complete the class survey at: SURVEY-LINK.
+Please take a moment to complete the class survey at: https://goo.gl/jnQMmd.
 
 ## Scripts for Adding Files
 
