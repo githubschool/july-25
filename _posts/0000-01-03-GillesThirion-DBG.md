@@ -6,4 +6,4 @@ title: "Welcome to our slide deck!"
 ![riddlocat](https://octodex.github.com/images/riddlocat.png)
 {: .center}
 
-Caption here
+masked cat dresses in a green suit with black interrogation mark printed on it. It has also an gold "interrogation mark" scepter
