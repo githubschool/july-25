@@ -6,4 +6,4 @@ title: "Welcome to our slide deck!"
 ![catstello](https://octodex.github.com/images/catstello.png)
 {: .center}
 
-Caption here
+DJ'ing is easier when you're an octocat
