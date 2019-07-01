@@ -6,4 +6,5 @@ title: "Welcome to our slide deck!"
 ![catstello](https://octodex.github.com/images/catstello.png)
 {: .center}
 
-Conflicts please
+This is a new caption!
+
